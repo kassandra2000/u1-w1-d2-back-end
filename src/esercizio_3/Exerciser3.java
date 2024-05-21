@@ -20,8 +20,8 @@ public class Exerciser3 {
         while (!Objects.equals(sc.nextLine(), ":g")) {
             for (int i = 0; i < str.split("").length; i++) {
                 System.out.println(str.split("")[i]);
-            }
-            System.out.println("inserisci la key");
+
+                System.out.println("inserisci la key");
         }
 
         // while (sc.nextLine() != ":g") {

@@ -19,6 +19,5 @@ public class Exerciser2 {
             case "3" -> "TRE";
             default -> num + " -NON E' VALIDO!-";
         };
-
     }
 }
